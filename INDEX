@@ -1,0 +1,38 @@
+ctdist                  Characteristic function for the linear combination
+                        of independent Student's t random variables (with small
+                        degrees of freedom, df <= 100) and/or standard Normal Z
+                        random variables.
+dtdist                  Density function for the linear combination of independent
+                        Student's t random variables (with small degrees of freedom,
+                        df <= 100) and/or standard Normal Z random variables.
+grule                   Gauss base points and weight factors for Gaussian quadrature
+                        on interval [0 1].
+gweights                The generator of points and weight factors for the Gaussian
+                        quadrature on several different subintervals.
+index                   Auxiliary function - generates the vector of indices.
+maxv                    Auxiliary function - vectorized max.
+minv                    Auxiliary function - vectorized min.
+ptdist                  Distribution function for the linear combination
+                        of independent Student's t random variables (with small
+                        degrees of freedom, df <= 100) and/or standard Normal
+                        Z random variables.
+qtdist                  Quantile function for the linear combination of independent
+                        Student's t random variables (with small degrees
+                        of freedom, df <= 100) and/or standard Normal Z random
+                        variables.
+rtdist                  Random generation for the linear combination of independent
+                        Student's t random variables (with small degrees of freedom,
+                        df <= 100) and/or standard Normal Z random variables.
+sp                      Auxiliary function - scalar product.
+sqr                     Auxiliary function - power race 2 (squared vector/matrix).
+tcdfpdf                 The internal function for coputation of the cdf and/or pdf
+                        of a linear combination of independent Student's t-variables
+tchfvw                  The internal function for coputation of the characteristic
+                        function of a linear combination of independent Student's
+                        t-variables
+tdist                   Computes the distribution of a linear combination of independent
+                        Student's t random variables (with small degrees of freedom,
+                        df <= 100) and/or standard Normal Z random variables.
+tinvvw                  The internal function for coputation of the quantile function
+                        of a linear combination of independent Student's t-variables
+
